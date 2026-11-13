@@ -1,0 +1,14 @@
+{
+  "command": [
+    "{python}",
+    "app.py"
+  ],
+  "expected": {
+    "cost": 9,
+    "protein": 39,
+    "meals": [
+      "Tofu",
+      "Eggs"
+    ]
+  }
+}
